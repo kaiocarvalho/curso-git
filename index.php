@@ -1,1 +1,3 @@
-bsas
+<?php
+
+echo "Teste";
